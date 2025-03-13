@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-bitnami/prometheus:2.37.0
+grafana/grafana:10.4.0
