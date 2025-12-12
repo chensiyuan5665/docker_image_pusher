@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-google/cadvisor:v0.33.0
+portainer/portainer-ce:2.37.0
